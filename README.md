@@ -4,9 +4,6 @@
 - Project Guide in various colleges and institutions in India
 - 🖖 Internet of things and Machine Learning Enthusiast  
 - 🌱 I’m currently learning LKD- linux kernel dev.
-- 🥅 2020 Goals: Contribute more to Open Source IoT and Embedded Systems domain
-- ⚡ Fun fact: I am a State Level Football⚽️ Player, painter🎨 and aspiring Triathelete🏊‍♂️🚴🏃
-
 
 <br />
 
