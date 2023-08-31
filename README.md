@@ -1,9 +1,9 @@
 ### Hi there, my name is Pratik Bingewar.
-## I'm a Teacher, Developer and Project Guide !!
-- I have done Masters in Scientific Computing
+## I'm a Teacher, Developer, and Project Guide !!
+- I have done Master in Scientific Computing
 - Got Fellowship from Harman Connected Services.
-- Taught more than 5k+ student and faculty via workshops and seminars.
-- Internet of things and Machine Learning Enthusiast  
+- Taught more than 5k+ students and faculty via workshops and seminars.
+- Internet of Things and Machine Learning Enthusiast  
 
 <br />
 
