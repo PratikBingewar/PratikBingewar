@@ -1,9 +1,9 @@
 ### Hi there, my name is Pratik Bingewar.
 ## I'm a Teacher, Developer and Project Guide !!
 - I have done Masters in Scientific Computing
-- Project Guide in various colleges and institutions in India
-- 🖖 Internet of things and Machine Learning Enthusiast  
-- 🌱 I’m currently learning LKD- linux kernel dev.
+- Got Fellowship from Harman Connected Services.
+- Taught more than 5k+ student and faculty via workshops and seminars.
+- Internet of things and Machine Learning Enthusiast  
 
 <br />
 
