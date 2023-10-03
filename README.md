@@ -1,4 +1,4 @@
-### Hi there, my name is Pratik Bingewar.
+### Hi there
 - I have done Master in Scientific Computing
 - Got Fellowship from Harman Connected Services.
 - Taught more than 5k+ students and faculty via workshops and seminars.
